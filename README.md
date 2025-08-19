@@ -1,29 +1,32 @@
-Machine Learning Tasks
+# Machine Learning Tasks
+
 This repository contains a collection of machine learning tasks covering different datasets and problem types, including preprocessing, modeling, and evaluation.
 
-Tasks
-Student Performance Prediction
+## Tasks
+1. *Student Performance Prediction*  
+   - *Type:* Regression  
+   - *Models:* Linear Regression, Lasso, Ridge  
+   - *Goal:* Predict students' exam scores based on study-related factors.  
 
-Type: Regression
-Models: Linear Regression, Lasso, Ridge
-Goal: Predict students' exam scores based on study-related factors.
-Customer Segmentation
+2. *Customer Segmentation*  
+   - *Type:* Clustering  
+   - *Models:* K-Means, Hierarchical Clustering  
+   - *Goal:* Group customers based on annual income and spending score.  
 
-Type: Clustering
-Models: K-Means, Hierarchical Clustering
-Goal: Group customers based on annual income and spending score.
-Forest Cover Type Classification
+3. *Forest Cover Type Classification*  
+   - *Type:* Multi-class Classification  
+   - *Models:* Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM)  
+   - *Goal:* Classify forest cover type using cartographic and environmental features.  
 
-Type: Multi-class Classification
-Models: Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM)
-Goal: Classify forest cover type using cartographic and environmental features.
-Loan Approval Prediction
+4. *Loan Approval Prediction*  
+   - *Type:* Classification  
+   - *Models:* Logistic Regression, Random Forest, Gradient Boosting (XGBoost)  
+   - *Goal:* Predict loan approval status based on applicant details.  
 
-Type: Classification
-Models: Logistic Regression, Random Forest, Gradient Boosting (XGBoost)
-Goal: Predict loan approval status based on applicant details.
-Tech Stack
-Language: Python
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-Open Jupyter Notebook
+## Tech Stack
+- *Language:* Python  
+- *Libraries:* Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+# Open Jupyter Notebook
 jupyter notebook
+اكتب إلى Bishoy Amgad
